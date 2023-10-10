@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\Global Değişken Örnekleri -113\Global Değişken Örnekleri -113\bin\Debug\Global Değişken Örnekleri -113.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\Global Değişken Örnekleri -113\Global Değişken Örnekleri -113\bin\Debug\Global Değişken Örnekleri -113.exe
+C:\Users\student\Desktop\Ahmet\ntp\Global Değişken Örnekleri -113\Global Değişken Örnekleri -113\bin\Debug\Global Değişken Örnekleri -113.pdb
+C:\Users\student\Desktop\Ahmet\ntp\Global Değişken Örnekleri -113\Global Değişken Örnekleri -113\obj\Debug\Global Değişken Örnekleri -113.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\Global Değişken Örnekleri -113\Global Değişken Örnekleri -113\obj\Debug\Global_Değişken_Örnekleri__113.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\Global Değişken Örnekleri -113\Global Değişken Örnekleri -113\obj\Debug\Global_Değişken_Örnekleri__113.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\Global Değişken Örnekleri -113\Global Değişken Örnekleri -113\obj\Debug\Global Değişken Örnekleri -113.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\Global Değişken Örnekleri -113\Global Değişken Örnekleri -113\obj\Debug\Global Değişken Örnekleri -113.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\Global Değişken Örnekleri -113\Global Değişken Örnekleri -113\obj\Debug\Global Değişken Örnekleri -113.exe
+C:\Users\student\Desktop\Ahmet\ntp\Global Değişken Örnekleri -113\Global Değişken Örnekleri -113\obj\Debug\Global Değişken Örnekleri -113.pdb
